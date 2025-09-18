@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useTheme } from "@/provider/page";
 
 // ✅ Import project images
-import inaikkaImg from "@/assets/projects/inaikka.png";
+import inaikkaImg from "@/assets/projects/Inaikka.png";
 import ytheysImg from "@/assets/projects/ytheys.png";
 import hmsImg from "@/assets/projects/hms.png";
 
