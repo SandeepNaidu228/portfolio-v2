@@ -30,6 +30,7 @@ const ProjectShowcase = () => {
         demo: "#",
       },
       image: inaikkaImg,
+      alt: "Inaikka site",
       featured: true,
     },
     {
@@ -42,6 +43,7 @@ const ProjectShowcase = () => {
         demo: "#",
       },
       image: ytheysImg,
+      alt: "Ytheys site",
       featured: true,
     },
     {
@@ -54,6 +56,7 @@ const ProjectShowcase = () => {
         demo: "#",
       },
       image: hmsImg,
+      alt: "HMS site",
       featured: true,
     },
   ];
